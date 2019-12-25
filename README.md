@@ -5,7 +5,7 @@
 
 ## Link to publshed Github page: https://ruchis2712.github.io/Singhal-Ruchi_Challenge-12/
 
-### The objective is to build an interactive dashboard using Plotly.js to explore data on the biodiversity of belly buttons. The data analysed is for bacteria samples collected from individutal test candidates belly buttons. And besides the info on each sample collected it also has the candidates demographic information necessary for the research.
+### The objective is to build an interactive dashboard using Plotly.js to explore data on the biodiversity of belly buttons. The data analysed is for bacteria samples collected from individutal test candidate's belly buttons. And besides the info on each sample collected, it also has the candidates demographic information necessary for the research.
 
 
 
